@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922132710811",
+    "project_id": "doctor-call-8d857",
+    "storage_bucket": "doctor-call-8d857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922132710811:android:649c6db489750523198d3e",
+        "android_client_info": {
+          "package_name": "com.amrdoctor.doctor_call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922132710811-rd6h8irbcilum75qn1380s7fr08f5dms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeG22If7208dnuufKCZeushGjFSITMM_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922132710811-rd6h8irbcilum75qn1380s7fr08f5dms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

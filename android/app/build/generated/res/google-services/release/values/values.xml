@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">922132710811-rd6h8irbcilum75qn1380s7fr08f5dms.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">922132710811</string>
+    <string name="google_api_key" translatable="false">AIzaSyAeG22If7208dnuufKCZeushGjFSITMM_s</string>
+    <string name="google_app_id" translatable="false">1:922132710811:android:649c6db489750523198d3e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAeG22If7208dnuufKCZeushGjFSITMM_s</string>
+    <string name="google_storage_bucket" translatable="false">doctor-call-8d857.appspot.com</string>
+    <string name="project_id" translatable="false">doctor-call-8d857</string>
+</resources>
